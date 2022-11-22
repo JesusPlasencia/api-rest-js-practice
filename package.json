@@ -1,0 +1,19 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusPlasencia/api-rest-js-practice.git"
+  },
+  "author": "Jesus <jesusplasencia2508@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesusPlasencia/api-rest-js-practice/issues"
+  },
+  "homepage": "https://github.com/JesusPlasencia/api-rest-js-practice#readme"
+}
