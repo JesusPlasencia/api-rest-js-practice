@@ -12,7 +12,7 @@ const searchForm = $('#searchForm');
 const trendingMoviesPreviewList = $('.trendingPreview-movieList');
 const categoriesPreviewList = $('.categoriesPreview-list');
 const movieDetailCategoriesList = $('#movieDetail .categories-list');
-const relatedMoviesContainer = $('.relatedMovies-container');
+const relatedMoviesContainer = $('.relatedMovies-scrollContainer');
 
 //!ELEMENTS
 const headerTitle = $('.header-title');
